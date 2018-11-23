@@ -1,0 +1,29 @@
+Drone something
+IOT (Smart home):
+    use alexa or google home with raspi or arduino to control things
+        lights on/off
+        hue lights
+        LED strip things?
+            maybe an LED cube
+        blinds/curtain
+        doors and things?
+    could make it life size with demos
+    could instead make a mini model house
+        pros:
+            cheaper
+            easier
+        cons:
+            not as cool
+
+We might not even need to use an alexa or google home if we don't want to
+    google ML has speech recognition and audio response
+    we can train it to recognize and respond to specific commands
+        cheaper
+        can emulate alexa features, which would be cool
+        might end up wasting time on this instead of just using an alexa
+
+
+Joel mentioned whatever we do should have audience engagement if we
+want to win prizes
+
+Can we please do more software than hardware
